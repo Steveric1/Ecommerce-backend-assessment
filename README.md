@@ -261,6 +261,7 @@ http://158.220.99.5:4000
 ```
 
 This is the deployed backend used for testing all API endpoints in production.
+---
 
 ## Notes
 
