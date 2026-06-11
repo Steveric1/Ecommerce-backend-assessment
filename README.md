@@ -156,7 +156,7 @@ GET /api/get-or-create-cart
 #### Add Product to Cart
 
 ```http
-POST /api/cart/get-or-create-cart
+POST /api/cart/add-to-cart
 ```
 
 Request Body:
