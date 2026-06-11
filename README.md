@@ -273,6 +273,6 @@ The API has been structured to support integration with a React frontend and can
 
 ## Author
 
-Eric Steve
+Eric Kinger
 
 Backend Engineer
