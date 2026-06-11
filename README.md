@@ -253,6 +253,15 @@ http://localhost:3000
 
 ---
 
+---
+### Production / Contabo Server (API Base URL)
+
+```
+http://158.220.99.5:4000
+```
+
+This is the deployed backend used for testing all API endpoints in production.
+
 ## Notes
 
 The assessment specification requested both frontend and backend deliverables. Given my stronger focus on backend engineering, I prioritized implementing a complete backend solution that demonstrates API design, authentication, database modeling, business logic, file uploads, and order management workflows.
